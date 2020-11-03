@@ -9,4 +9,5 @@ class Server:
         self.VCPU_free = vcpu
         self.disk_free = disk
         self.Rack = rack
+
         self.isActive = True
