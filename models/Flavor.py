@@ -1,3 +1,4 @@
+#binay changes
 class Flavor:
     def __init__(self, name, memory, disk, vcpu):
         self.Name = name
